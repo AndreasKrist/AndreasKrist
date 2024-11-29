@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there! I'm [Your Name]
 
-<!--
-**AndreasKrist/AndreasKrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a **Machine Learning enthusiast** with a touch of **front-end development**. I enjoy building intelligent systems and creating user-friendly interfaces to bring them to life.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools  
+### 🌟 Machine Learning  
+- Python (NumPy, pandas, scikit-learn, TensorFlow, PyTorch)  
+- Data Preprocessing, Feature Engineering  
+- Model Training & Evaluation  
+
+### 💻 Front-End Development  
+- HTML, CSS, JavaScript  
+- React.js, Bootstrap  
+
+### ⚙️ Other Technologies  
+- Git & GitHub for version control  
+- Jupyter Notebook, Google Colab  
+
+---
+
+## 🌱 What I'm Learning  
+- **Advanced Deep Learning Architectures**  
+- **Integrating ML models with web interfaces**  
+
+---
+
+## 🌐 Connect with Me  
+- 📫 Email: [your.email@example.com]  
+- 🌟 LinkedIn: [Your LinkedIn Profile Link]  
+- 🌍 Portfolio: [Your Portfolio Link, if available]  
+
+---
