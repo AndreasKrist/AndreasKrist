@@ -1,5 +1,13 @@
 <div align="center">
-  <img height="150" src="logos.png"/>
+  <img height="200" src="logos.png"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.kaggle.com/andreas08/code" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle.com/andreas08&logo=linkedin&label=&color=0077B5&logoColor=blue&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -18,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Andreas from Jakarta<br><br>- 🔭 I’m a Computer Science Student<br>- 📚 I'm currently learning Machine Learning & very deep Deep Learning<br>- ⚡ In my free time I spent my free time</p>
+<p align="left">I'm Andreas from Jakarta<br><br>- 🔭 I’m a Computer Science Student<br>- 📚 I'm currently learning Machine Learning & Deep Learning<br>- ⚡ In my free time I spent my free time</p>
 
 ###
 
