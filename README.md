@@ -1,9 +1,5 @@
 # 👋 Hi there! I'm [Your Name]
 
-Welcome to my GitHub! I'm a **Machine Learning enthusiast** with a touch of **front-end development**. I enjoy building intelligent systems and creating user-friendly interfaces to bring them to life.
-
----
-
 ## 🔧 Skills & Tools  
 ### 🌟 Machine Learning  
 - Python (NumPy, pandas, scikit-learn, TensorFlow, PyTorch)  
