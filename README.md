@@ -5,14 +5,6 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AndreasKrist.AndreasKrist&"  />
 </div>
 
@@ -26,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Andreas from Jakarta<br><br>- 🔭 I’m a Computer Science Student<br>- 📚 I'm currently learning Machine Learning & Deep Learning<br>- ⚡ In my free time I spent my free time</p>
+<p align="left">I'm Andreas from Jakarta<br><br>- 🔭 I’m a Computer Science Student<br>- 📚 I'm currently learning Machine Learning & very deep Deep Learning<br>- ⚡ In my free time I spent my free time</p>
 
 ###
 
