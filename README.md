@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="Lilo_Logo_fix1.png"  />
+  <img height="150" src="logos.png"/>
 </div>
 
 ###
