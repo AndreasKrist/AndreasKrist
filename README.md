@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Andreas from Jakarta<br><br>- 🔭 I’m a Computer Science Student<br>- 📚 I'm currently learning Machine Learning & Deep Learning<br>- ⚡ In my free time I spent my free time</p>
+<p align="left">I'm Andreas from Jakarta<br><br>- 🔭 I’m a Computer Science Student<br>- 📚 I'm currently learning Machine Learning & very deep Deep Learning<br>- ⚡ In my free time I spent my free time</p>
 
 ###
 
