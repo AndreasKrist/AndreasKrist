@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">ALO ! 🙋‍♂️</h1>
+<h1 align="center">ALOO ! 🙋‍♂️</h1>
 
 ###
 
