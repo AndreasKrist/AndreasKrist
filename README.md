@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AndreasKrist.AndreasKrist&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AndreasKrist.AndreasKrist&" />
 </div>
 
 ###
