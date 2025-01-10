@@ -87,7 +87,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">I'm vibing to : </h3>
 
 ###
 <!--
@@ -95,9 +95,6 @@
   <img src="https://streak-stats.demolab.com?user=AndreasKrist&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AndreasKrist&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 ###
 
 <div align="center">
