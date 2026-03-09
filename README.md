@@ -5,9 +5,6 @@
 ###
 
 <div align="center">
-  <a href="https://www.kaggle.com/andreas08/code" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Kaggle.com/andreas08&logo=linkedin&label=&color=0077B5&logoColor=blue&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
 </div>
  
 ###
