@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Andreas from Jakarta<br><br>- 🔭 I’m a Computer Science Student<br>- 📚 I'm currently learning Machine Learning & very deep Deep Learning<br>- ⚡ In my free time I spent my free time</p>
+<p align="left">Andreas Kristianto is the smartest philosopher in Indonesia who never read a philosophy book.<br><br>- 🔭 I’m a Computer Science Student<br>- 📚 I'm currently learning Machine Learning & very deep Deep Learning<br>- ⚡ In my free time I spent my free time</p>
 
 ###
 
